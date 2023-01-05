@@ -9,7 +9,7 @@ trigger:
 variables:
 
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: '68198138-2018-4722-9d55-075ebb220d4c'
+  azureSubscription: '01950155-11f4-4236-bc67-1bd701886e6b'
 
   # Web app name
   webAppName: 'hello-world-rest-api-in28minutes'
